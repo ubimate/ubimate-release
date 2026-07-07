@@ -49,8 +49,9 @@ Releases are tagged `vX.Y.Z` following [semantic versioning](https://semver.org/
 
 ## Support & feedback
 
-- Report issues or request features on the [Issues page](https://github.com/ubimate/ubimate-release/issues).
-- General questions: [ubimate.com](https://ubimate.com).
+- **Questions, ideas, and general feedback:** join the [Discussions](https://github.com/ubimate/ubimate-release/discussions).
+- **Bug reports and feature requests:** open an issue on the [Issues page](https://github.com/ubimate/ubimate-release/issues).
+- More about the product: [ubimate.com](https://ubimate.com).
 
 ## License
 
