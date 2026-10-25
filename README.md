@@ -10,11 +10,8 @@ Grab the latest build from the **[Releases page](https://github.com/ubimate/ubim
 
 | Platform | File |
 |----------|------|
-| macOS (Apple Silicon) | `Ubimate_X.Y.Z_aarch64.dmg` |
-| macOS (Intel) | `Ubimate_X.Y.Z_x64.dmg` |
+| macOS | `Ubimate_X.Y.Z_universal.dmg` |
 | Windows (x64) | `Ubimate_X.Y.Z_x64_en-US.msi` |
-
-> Not sure which Mac you have? Click the Apple menu → **About This Mac**. "Apple M1/M2/M3…" means Apple Silicon; "Intel" means the Intel build.
 
 ## Installation
 
